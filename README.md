@@ -89,50 +89,101 @@ You will find similar cards in all areas of knowledge. If you haven't found the 
 You should not approach this stage if you do not understand the topic enough.
 Websites for Russian speakers: cyberleninka.ru elibrary.ru
 
+<!-- <a href=""></a> -->
 <h3>Больше ссылок</h3>
 <h3>More links</h3>
-Постнаука — https://postnauka.ru/
-ТЕД — https://www.youtube.com/channel/UCkVfFOzvocgJ9srm3lc6Qsw
-ТЕД — https://www.youtube.com/user/TEDEducation
-Veritasium — https://www.youtube.com/user/1veritasium
-Vsauce — https://www.youtube.com/user/Vsauce
-Для самостоятельного поиска — https://www.youtube.com/education
-https://universarium.org/ — Универсариум. Здесь выкладывают свои курсы преподаватели российских вузов и руководители научных центров. В рамках курсов есть дополнительная литература, задания, тесты и прочее.
-https://openedu.ru/  — Открытое образование. Здесь вы найдёте курсы от российских вузов. Хорошее место, чтобы начать структурное изучение.
-https://stepik.org/ — Можно найти годные курсы по серьёзным предметам.
-https://www.coursera.org/ — Здесь есть курсы на русском языке. После поиска нужно применить фильтр.
-https://www.lektorium.tv/mooc — хороший сайт. Около 100 курсов российских ВУЗов, школ + авторские.
-https://docs.microsoft.com/ru-ru/learn/ — Русские курсы от Майкрософта. Программирование и проч.
- https://www.edx.org/ — edX – 2500+ курсов от 140 иностранных вузов.
-https://www.khanacademy.org/ — Очень много годных курсов от простейшего к сложнейшему.
-https://www.coursera.org/ — Курсы от топовых ВУЗов.
-https://www.merlot.org/merlot/index.htm – Для самостоятельного поиска курсов среди тех, что выставляют ВУЗы, участвующие в программе дистанционного обучения.
-https://online-learning.harvard.edu/catalog/free — Бесплатные курсы от Гарварда.
- http://oli.cmu.edu/independent-learner-courses/ — Бесплатные курсы от Карнеги.
- https://online.duke.edu/course-listing — Курсы от Дьюка (можно отфильтровать бесплатные).
- https://online.stanford.edu/courses-programs — Стэнфорд (можно отфильтровать бесплатные).
- https://oyc.yale.edu/courses — Йельский университет.
- https://ocw.mit.edu/index.htm — MIT.
- https://www.futurelearn.com/courses — Агрегатор бесплатных курсов.
-https://www.open.edu/openlearn/free-courses/full-catalogue — Агрегатор бесплатных курсов.
- https://oedb.org/open/ — Агрегатор. Позволяет найти курсы на разных сайтах универов.
-https://www.classcentral.com/ — То же самое, что и выше.
-https://gitmind.com/ — Полностью бесплатная онлайн платформа с годным функционалом.
-https://www.canva.com/ — Популярный сервис.
-https://sketchboard.io/ — Широкий функционал за деньги.
-https://cyberleninka.ru/article
-https://www.elibrary.ru/keywords.asp
-https://www.eric.ed.gov/
-https://www.jstor.org/
-https://www.scopus.com/home.uri
-https://ieeexplore.ieee.org/Xplore/home.jsp
-https://www.sciencedirect.com/
-https://doaj.org/
-https://www.ncbi.nlm.nih.gov/
-http://aaaaarg.fail/ — годный сайт. Часто падает, приходится использовать VPN и ждать несколько дней, чтобы получить к нему доступ. Но очень хорош, чтобы искать книги по гуманитарным дисциплинам.
-https://www.gutenberg.org/ — 45000 книг.
-https://openlibrary.org/ — Более миллиона книг онлайн.
-https://archive.org/ — Здесь можно найти много старых книг.
-https://www.pdfbooksworld.com/Academic-EBooks — Бесплатные академические книги.
-А вот сервис для того, чтобы читать платные исследования:
-https://sci-hub.im/
+<br>
+<a href="https://postnauka.ru/">Постнаука</a>
+<br>
+<a href="https://www.youtube.com/channel/UCkVfFOzvocgJ9srm3lc6Qsw">ТЕД</a>
+<br>
+<a href="https://www.youtube.com/user/TEDEducation">ТЕД</a>
+<br>
+<a href="https://www.youtube.com/user/1veritasium">Veritasium</a>
+<br>
+<a href="https://www.youtube.com/user/Vsauce">Vsauce</a>
+<br>
+<a href="https://www.youtube.com/education">Для самостоятельного поиска</a>
+<br>
+<a href="https://universarium.org/">Универсариум</a>
+ Здесь выкладывают свои курсы преподаватели российских вузов и руководители научных центров. В рамках курсов есть дополнительная литература, задания, тесты и прочее.
+<br>
+<a href="https://openedu.ru/">Открытое образование</a>
+ Здесь вы найдёте курсы от российских вузов. Хорошее место, чтобы начать структурное изучение.
+<br>
+ Можно найти <a href="https://stepik.org/">годные курсы</a> по серьёзным предметам.
+<br>
+ Здесь есть <a href="https://www.coursera.org/">курсы</a> на русском языке. После поиска нужно применить фильтр.
+<br>
+<a href="https://www.lektorium.tv/mooc">хороший сайт</a>
+ Около 100 курсов российских ВУЗов, школ + авторские.
+<br>
+<a href="https://docs.microsoft.com/ru-ru/learn/">Русские курсы от Майкрософта.</a>
+ Программирование и проч.
+<br>
+<a href="https://www.edx.org/">edX</a> – 2500+ курсов от 140 иностранных вузов.
+ <br>
+Очень много годных <a href="https://www.khanacademy.org/">курсов</a> от простейшего к сложнейшему.
+<br>
+<a href="https://www.coursera.org/">Курсы от топовых ВУЗов.</a>
+<br>
+Для самостоятельного поиска <a href="https://www.merlot.org/merlot/index.htm">курсов</a> среди тех, что выставляют ВУЗы, участвующие в программе дистанционного обучения.
+<br>
+<a href="https://online-learning.harvard.edu/catalog/free">Бесплатные курсы от Гарварда.</a>
+<br>
+<a href="http://oli.cmu.edu/independent-learner-courses/">Бесплатные курсы от Карнеги.</a>
+ <br>
+ <a href=" https://online.duke.edu/course-listing">Курсы от Дьюка</a> (можно отфильтровать бесплатные).
+ <br>
+ <a href="https://online.stanford.edu/courses-programs">Стэнфорд</a> (можно отфильтровать бесплатные).
+ <br>
+ <a href="https://oyc.yale.edu/courses">Йельский университет.</a>
+ <br>
+ <a href="https://ocw.mit.edu/index.htm">MIT</a>
+ <br>
+ <a href="https://www.futurelearn.com/courses">Агрегатор бесплатных курсов.</a>
+ <br>
+ <a href="https://www.open.edu/openlearn/free-courses/full-catalogue">Агрегатор бесплатных курсов.</a>
+<br>
+<a href="https://oedb.org/open/">Агрегатор.</a>
+ Позволяет найти курсы на разных сайтах универов.
+<br>
+<a href="https://www.classcentral.com/">То же самое, что и выше.</a>
+<br>
+Полностью бесплатная <a href="https://gitmind.com/">онлайн платформа</a> с годным функционалом.
+<br>
+<a href="https://www.canva.com/">Популярный сервис.</a>
+<br>
+<a href="https://sketchboard.io/">Широкий функционал за деньги.</a>
+<br>
+<a href="https://cyberleninka.ru/article">Полезная ссылка</a>
+<br>
+<a href="https://www.elibrary.ru/keywords.asp">Полезная ссылка</a>
+<br>
+<a href="https://www.eric.ed.gov/">Полезная ссылка</a>
+<br>
+<a href="https://www.jstor.org/">Полезная ссылка</a>
+<br>
+<a href="https://www.scopus.com/home.uri">Полезная ссылка</a>
+<br>
+<a href="https://ieeexplore.ieee.org/Xplore/home.jsp">Полезная ссылка</a>
+<br>
+<a href="https://www.sciencedirect.com/">Полезная ссылка</a>
+<br>
+<a href="https://doaj.org/">Полезная ссылка</a>
+<br>
+<a href="https://www.ncbi.nlm.nih.gov/">Полезная ссылка</a>
+<br>
+<a href="http://aaaaarg.fail/">годный сайт</a>
+ Часто падает, приходится использовать VPN и ждать несколько дней, чтобы получить к нему доступ. Но очень хорош, чтобы искать книги по гуманитарным дисциплинам.
+<br>
+<a href="https://www.gutenberg.org/">45000 книг.</a>
+<br>
+<a href="https://openlibrary.org/">Более миллиона книг онлайн.</a>
+<br>
+<a href="https://archive.org/">Здесь можно найти много старых книг.</a>
+<br>
+<a href="https://www.pdfbooksworld.com/Academic-EBooks">Бесплатные академические книги.</a>
+<br>
+<a href="https://sci-hub.im/">А вот сервис для того, чтобы читать платные исследования</a>
+<br>

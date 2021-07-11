@@ -88,6 +88,7 @@ Many YouTube users create playlists for themselves, and we will use their works.
 After that, sort all found playlists by topics and place them in the document. This document may contain Youtube playlists, links to courses, books, literature, as well as POSTS in VK
 
 In the search bar in the news, write in Balanced Search Trees and scroll down until we find what we need. More often than not, this is a useful but ancient post.
+<br>
 <img src="srcs/zoom_1.gif" alt="Yputube gif">
 <br>
 At this stage, hundreds of hours of practice and literature can be found. But that's not all

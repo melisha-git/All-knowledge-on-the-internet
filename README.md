@@ -43,12 +43,16 @@
 Сайты для русскоговорящих : cyberleninka.ru elibrary.ru
 <hr>
 <h1>-------ENGLISH VERSION-------</h1>
+<br>
+<address>translation - https://github.com/ctycho</address>
+<br>
 <h1>In this repository I'll try to explain how to spend time in the internet more productive</h1>
 
 <h3>Step № 0 Basic principles</h3>
 <h4>Two strategies to avoid drowning in the quagmire of modern information </h4>
 1. Will be this information, that you're reading still relevant in the following ten years?
 If it's not I don't need this information. Don't pay attention to a news that will be relevant tommorow. That's some informational waves, which is only confusing. Avoid them.
+<br>
 2. Divide the flow of information. Things of different complexity are mixed in a heap, and in the end they turn into garbage. To separate memes and diamonds, you can, for example, create a separate YouTube account from which you can watch only useful videos, as a result of which only them will be recommended by YouTube.
 <hr>
 
@@ -75,6 +79,7 @@ After that, sort all found playlists by topics and place them in the document. T
 
 In the search bar in the news, write in Balanced Search Trees and scroll down until we find what we need. More often than not, this is a useful but ancient post.
 <img src="srcs/zoom_1.gif" alt="Yputube gif">
+<br>
 At this stage, hundreds of hours of practice and literature can be found. But that's not all
 <h3>Step № 4. Systematization</h3>
 If you are going to do something complex, it is important to create order in your head. Mind maps work well for this. You can find ready-made mind maps related to algorithms and data structures.

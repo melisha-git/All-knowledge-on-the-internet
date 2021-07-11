@@ -43,9 +43,9 @@
 Сайты для русскоговорящих : cyberleninka.ru elibrary.ru
 <hr>
 <h1>-------ENGLISH VERSION-------</h1>
-<br>
-<address>translation - https://github.com/ctycho</address>
-<br>
+<hr>
+<address>TRANSLATION - https://github.com/ctycho</address>
+<hr>
 <h1>In this repository I'll try to explain how to spend time in the internet more productive</h1>
 
 <h3>Step № 0 Basic principles</h3>

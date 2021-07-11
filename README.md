@@ -21,6 +21,7 @@
 <img src="srcs/Screen Shot 2021-07-09 at 5.02.40 PM.png" alt="Screen Open Edu">
 <br>
 Допустим, меня заинтересовал 1 курс, я вижу, что он длится 15 недель. И вот, в очередной раз, просмотрев видео, мне стало мало и я захотел углубиться в тему, что делать?...
+<br>
 <img src="srcs/Screen Shot 2021-07-09 at 5.07.46 PM.png" alt="Screen Open Edu">
 <br>
 <hr>
@@ -28,7 +29,9 @@
 <h4>Как использовать социальные сети в самообразовании?</h4>
 Во-первых на Youtube.com в строке поиска вбиваем интересующую нас тему. Например: Сбалансированные деревья поиска и в фильтрах нажимаем на плейлисты
 Многие пользователи ютуба создают плейлисты для себя, а мы будем пользоваться их трудами.
+<br>
 <img src="srcs/zoom_0.gif" alt="Yputube gif">
+<br>
 После этого распределите все найденные плейлисты по темам и поместите в документ. В этом документе могут быть Youtube плейлисты, ссылки на курсы, книги, литература, а так же ПОСТЫ ВКОНТАКТЕ
 
 В строке поиска в новостях вбиваем Сбалансированные деревья поиска и скролим вниз, пока не найдем то, что нам нужно. Чаще всего - это годный, но древний пост.
@@ -38,7 +41,9 @@
 На данном этапе можно найти сотни часов практики и литературы. Но это еще не всё
 <h3>Шаг № 4. Систематизация</h3>
 Если вы беретесь за что-то сложное, важно создавать порядок в голове. Для этого хорошо подходят mind-карты. Можно найти уже готовые mind-карты, касающиеся алгоритмов и структур данных.
+<br>
 <img src="srcs/Screen Shot 2021-07-09 at 5.36.02 PM.png" alt="Yputube gif">
+<br>
 Подобные карты вы найдете в любых сферах знаний. Если же вы не нашли нужную карту - создайте свою.
 <h3>Шаг № 5. Чтение Академических работ</h3>
 К данному этапу не стоит подходить, если вы недостаточно разобрались в теме.
@@ -69,6 +74,7 @@ Find a free course from university. Modern universitys offer you good oportunity
 <img src="srcs/Screen Shot 2021-07-09 at 5.02.40 PM.png" alt="Screen Open Edu">
 <br>
 Let's assume that I'm interested in some course, length of which is 15 weeks. And again after I watched a video, but it wasn't enough. What's next?
+<br>
 <img src="srcs/Screen Shot 2021-07-09 at 5.07.46 PM.png" alt="Screen Open Edu">
 <br>
 <hr>
@@ -76,7 +82,9 @@ Let's assume that I'm interested in some course, length of which is 15 weeks. An
 <h4>How can we use it in selfeducation?</h4>
 First, on Youtube.com, in the search bar, we write the topic that we're interest in. For example: Balanced search trees and click on playlists in filters
 Many YouTube users create playlists for themselves, and we will use their works.
+<br>
 <img src="srcs/zoom_0.gif" alt="Yputube gif">
+<br>
 After that, sort all found playlists by topics and place them in the document. This document may contain Youtube playlists, links to courses, books, literature, as well as POSTS in VK
 
 In the search bar in the news, write in Balanced Search Trees and scroll down until we find what we need. More often than not, this is a useful but ancient post.
@@ -85,7 +93,9 @@ In the search bar in the news, write in Balanced Search Trees and scroll down un
 At this stage, hundreds of hours of practice and literature can be found. But that's not all
 <h3>Step № 4. Systematization</h3>
 If you are going to do something complex, it is important to create order in your head. Mind maps work well for this. You can find ready-made mind maps related to algorithms and data structures.
+<br>
 <img src="srcs/Screen Shot 2021-07-09 at 5.36.02 PM.png" alt="Yputube gif">
+<br>
 You will find similar cards in all areas of knowledge. If you haven't found the card you need, create your own.
 <h3>Step № 5. Academic work</h3>
 You should not approach this stage if you do not understand the topic enough.

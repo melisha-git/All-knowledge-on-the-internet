@@ -94,96 +94,96 @@ Websites for Russian speakers: cyberleninka.ru elibrary.ru
 <h3>More links</h3>
 <br>
 <a href="https://postnauka.ru/">Постнаука</a>
-<br>
+<hr>
 <a href="https://www.youtube.com/channel/UCkVfFOzvocgJ9srm3lc6Qsw">ТЕД</a>
-<br>
+<hr>
 <a href="https://www.youtube.com/user/TEDEducation">ТЕД</a>
-<br>
+<hr>
 <a href="https://www.youtube.com/user/1veritasium">Veritasium</a>
-<br>
+<hr>
 <a href="https://www.youtube.com/user/Vsauce">Vsauce</a>
-<br>
+<hr>
 <a href="https://www.youtube.com/education">Для самостоятельного поиска</a>
-<br>
+<hr>
 <a href="https://universarium.org/">Универсариум</a>
  Здесь выкладывают свои курсы преподаватели российских вузов и руководители научных центров. В рамках курсов есть дополнительная литература, задания, тесты и прочее.
-<br>
+<hr>
 <a href="https://openedu.ru/">Открытое образование</a>
  Здесь вы найдёте курсы от российских вузов. Хорошее место, чтобы начать структурное изучение.
-<br>
+<hr>
  Можно найти <a href="https://stepik.org/">годные курсы</a> по серьёзным предметам.
-<br>
+<hr>
  Здесь есть <a href="https://www.coursera.org/">курсы</a> на русском языке. После поиска нужно применить фильтр.
-<br>
+<hr>
 <a href="https://www.lektorium.tv/mooc">хороший сайт</a>
  Около 100 курсов российских ВУЗов, школ + авторские.
-<br>
+<hr>
 <a href="https://docs.microsoft.com/ru-ru/learn/">Русские курсы от Майкрософта.</a>
  Программирование и проч.
-<br>
+<hr>
 <a href="https://www.edx.org/">edX</a> – 2500+ курсов от 140 иностранных вузов.
- <br>
+<hr>
 Очень много годных <a href="https://www.khanacademy.org/">курсов</a> от простейшего к сложнейшему.
-<br>
+<hr>
 <a href="https://www.coursera.org/">Курсы от топовых ВУЗов.</a>
-<br>
+<hr>
 Для самостоятельного поиска <a href="https://www.merlot.org/merlot/index.htm">курсов</a> среди тех, что выставляют ВУЗы, участвующие в программе дистанционного обучения.
-<br>
+<hr>
 <a href="https://online-learning.harvard.edu/catalog/free">Бесплатные курсы от Гарварда.</a>
-<br>
+<hr>
 <a href="http://oli.cmu.edu/independent-learner-courses/">Бесплатные курсы от Карнеги.</a>
- <br>
- <a href=" https://online.duke.edu/course-listing">Курсы от Дьюка</a> (можно отфильтровать бесплатные).
- <br>
- <a href="https://online.stanford.edu/courses-programs">Стэнфорд</a> (можно отфильтровать бесплатные).
- <br>
- <a href="https://oyc.yale.edu/courses">Йельский университет.</a>
- <br>
- <a href="https://ocw.mit.edu/index.htm">MIT</a>
- <br>
- <a href="https://www.futurelearn.com/courses">Агрегатор бесплатных курсов.</a>
- <br>
- <a href="https://www.open.edu/openlearn/free-courses/full-catalogue">Агрегатор бесплатных курсов.</a>
-<br>
+<hr>
+<a href=" https://online.duke.edu/course-listing">Курсы от Дьюка</a> (можно отфильтровать бесплатные).
+<hr>
+<a href="https://online.stanford.edu/courses-programs">Стэнфорд</a> (можно отфильтровать бесплатные).
+<hr>
+<a href="https://oyc.yale.edu/courses">Йельский университет.</a>
+<hr>
+<a href="https://ocw.mit.edu/index.htm">MIT</a>
+<hr>
+<a href="https://www.futurelearn.com/courses">Агрегатор бесплатных курсов.</a>
+<hr>
+<a href="https://www.open.edu/openlearn/free-courses/full-catalogue">Агрегатор бесплатных курсов.</a>
+<hr>
 <a href="https://oedb.org/open/">Агрегатор.</a>
  Позволяет найти курсы на разных сайтах универов.
-<br>
+<hr>
 <a href="https://www.classcentral.com/">То же самое, что и выше.</a>
-<br>
+<hr>
 Полностью бесплатная <a href="https://gitmind.com/">онлайн платформа</a> с годным функционалом.
-<br>
+<hr>
 <a href="https://www.canva.com/">Популярный сервис.</a>
-<br>
+<hr>
 <a href="https://sketchboard.io/">Широкий функционал за деньги.</a>
-<br>
+<hr>
 <a href="https://cyberleninka.ru/article">Полезная ссылка</a>
-<br>
+<hr>
 <a href="https://www.elibrary.ru/keywords.asp">Полезная ссылка</a>
-<br>
+<hr>
 <a href="https://www.eric.ed.gov/">Полезная ссылка</a>
-<br>
+<hr>
 <a href="https://www.jstor.org/">Полезная ссылка</a>
-<br>
+<hr>
 <a href="https://www.scopus.com/home.uri">Полезная ссылка</a>
-<br>
+<hr>
 <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">Полезная ссылка</a>
-<br>
+<hr>
 <a href="https://www.sciencedirect.com/">Полезная ссылка</a>
-<br>
+<hr>
 <a href="https://doaj.org/">Полезная ссылка</a>
-<br>
+<hr>
 <a href="https://www.ncbi.nlm.nih.gov/">Полезная ссылка</a>
-<br>
+<hr>
 <a href="http://aaaaarg.fail/">годный сайт</a>
  Часто падает, приходится использовать VPN и ждать несколько дней, чтобы получить к нему доступ. Но очень хорош, чтобы искать книги по гуманитарным дисциплинам.
-<br>
+<hr>
 <a href="https://www.gutenberg.org/">45000 книг.</a>
-<br>
+<hr>
 <a href="https://openlibrary.org/">Более миллиона книг онлайн.</a>
-<br>
+<hr>
 <a href="https://archive.org/">Здесь можно найти много старых книг.</a>
-<br>
+<hr>
 <a href="https://www.pdfbooksworld.com/Academic-EBooks">Бесплатные академические книги.</a>
-<br>
+<hr>
 <a href="https://sci-hub.im/">А вот сервис для того, чтобы читать платные исследования</a>
 <br>
